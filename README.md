@@ -10,3 +10,5 @@ The user has a choice of burgers to eat. Once eaten, the burger will be moved to
 <img width="1425" alt="screen shot 2018-02-23 at 10 13 27 pm" src="https://user-images.githubusercontent.com/30426278/36626393-d908b66a-18e6-11e8-9741-d68ffb40ddf3.png">
 
 This shows app action
+
+<img width="1384" alt="screen shot 2018-02-24 at 11 50 36 am" src="https://user-images.githubusercontent.com/30426278/36634401-fe7488bc-1958-11e8-9502-4d5b65f51da3.png">
