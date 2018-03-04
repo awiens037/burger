@@ -1,7 +1,7 @@
 # Burger App
 Heroku Link https://immense-woodland-64656.herokuapp.com/
 
-# About
+# About App
 In this assignment, we create a burger with MySQL, Node, Express, Handlebars and ORM.
 
 # Process
